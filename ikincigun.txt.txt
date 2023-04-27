@@ -12,4 +12,4 @@ Git Githup ikinci gun ikinci deneme
 Main Branch yeni ekleme
 Git Githup ucuncu gun ulug Branch ilk deneme
 ulug branch 2. ekleme
-
+ulug branch yeni ekleme
